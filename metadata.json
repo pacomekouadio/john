@@ -1,0 +1,6 @@
+{
+  "name": "HUSH Japanese Sushi Restaurant",
+  "description": "Pixel-perfect reproduction of a premium Japanese sushi restaurant web application featuring dark gastronomic aesthetics, interactive reservations, and gourmet menu showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
